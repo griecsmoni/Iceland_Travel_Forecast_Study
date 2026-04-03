@@ -32,6 +32,6 @@ By applying the activity-specific criteria to the forecasts, the project estimat
 ## Key Results
 The study concludes that the LSTM model substantially outperforms Random Forest. While Random Forest showed signs of overfitting, the LSTM architecture effectively captured the temporal dynamics of the meteorological data, providing significantly lower prediction errors.
 
-## Author: Monika Griecs-Farkas
+### Author: Monika Griecs-Farkas
 
-## Date: 09/03/2026
+### Date: 09/03/2026
