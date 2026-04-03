@@ -1,4 +1,4 @@
-# Iceland_Travel_Forecast_Study
+# Iceland_Travel_Forecast_Study (empirical study)
 
 ## Project Overview
 The primary objective of this study is to evaluate and compare the performance of two different machine learning approaches—Random Forest Regressor and Long Short-Term Memory (LSTM) neural networks—in the context of multivariate time-series forecasting. The evaluation is conducted using historical meteorological data from North Iceland, specifically the Akureyri region.
